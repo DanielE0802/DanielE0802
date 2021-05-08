@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-estupi%C3%B1%C3%A1n/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
   <a href="https://github.com/DanielE0802"><img src="https://img.icons8.com/doodle/48/000000/github--v1.png" ></a>
-
+</div>
 
 ## 👨🏽‍💻Languagues and Tools:
 <div>
