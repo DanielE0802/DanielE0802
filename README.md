@@ -16,13 +16,16 @@
 <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/wired/64/000000/postman-api.png"/>
 <img src="https://img.icons8.com/color/64/000000/sass.png"/>
+<img src="https://img.icons8.com/officexs/000000/react.png"/>
+<img src="https://img.icons8.com/?size=64&id=cdYUlRaag9G9&format=png"/>
+<img src="https://img.icons8.com/?size=64&id=nCj4PvnCO0tZ&format=png"/>
+<img src="https://img.icons8.com/?size=64&id=KOpXw3fX66q2&format=png"/>
 </div>
 
 ---
 
 ## 🌱 I’m currently learning:
-- <img src="https://img.icons8.com/officexs/000000/react.png"/> ReactJS  
--  <img src="https://img.icons8.com/cute-clipart/18/000000/react-native.png"/> ReactNative 
+-  <img src="https://img.icons8.com/cute-clipart/18/000000/react-native.png"/> React Native 
 
 ---
 
