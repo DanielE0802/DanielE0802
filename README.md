@@ -24,8 +24,8 @@
 
 ---
 
-## 🌱 I’m currently learning:
--  <img src="https://img.icons8.com/cute-clipart/18/000000/react-native.png"/> React Native 
+## 🌱 I’m currently learning:  
+  FASTAPI
 
 ---
 
